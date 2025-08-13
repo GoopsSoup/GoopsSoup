@@ -1,13 +1,13 @@
 <h1 align="center">👑 Andhika Raja Yang Agung 👑</h1>
-<h3 align="center">🔥 Developer | Game Enthusiast | Cybersecurity Learner 🔥</h3>
+<h3 align="center">🔥 Beginner | Game Enthusiast | Learning AI 🔥</h3>
 
 ---
 
 ## 🌟 Tentang Saya
-- 🎯 **Fokus:** Game Dev, AI, Cybersecurity
-- 🎮 Sedang belajar Unity & KivyMD
+- 🎯 **Fokus:** Game , AI
+- 🎮 Sedang belajar AI & Dart
 - 💡 Suka membuat hal-hal kreatif dan menantang
-- 🛡️ Mempelajari serangan siber dan cara menanggulanginya
+- 🛡️ Mempelajari basic basic untuk menjadi Data Scientist
 
 ---
 
