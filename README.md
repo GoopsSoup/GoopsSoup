@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,dart,github,html,css" />
 </p>
