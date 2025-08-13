@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👑 Andhika Raja Yang Agung 👑</h1>
+<h3 align="center">🔥 Developer | Game Enthusiast | Cybersecurity Learner 🔥</h3>
 
-<!--
-**GoopsSoup/GoopsSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 Tentang Saya
+- 🎯 **Fokus:** Game Dev, AI, Cybersecurity
+- 🎮 Sedang belajar Unity & KivyMD
+- 💡 Suka membuat hal-hal kreatif dan menantang
+- 🛡️ Mempelajari serangan siber dan cara menanggulanginya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,unity,github,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎵 Fun Facts
+> "Kode tanpa bug itu seperti unicorn… semua orang ingin, tapi jarang terlihat."
+
+---
+
+## 🌐 Hubungi Saya
+<p align="center">
+  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
