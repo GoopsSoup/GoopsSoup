@@ -34,5 +34,5 @@
   My gmail: thoughblud@gmail.com
 </p>
 
-## Would love if someone could teach me AI ENGINEERING
+<h1 align="center"> Would love if someone could teach me AI ENGINEERING </h1>
 
