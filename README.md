@@ -14,7 +14,7 @@ Vocational School Student🔥</h3>
 
 ## 🛠 Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,sql,github,html,css" />
 </p>
 
 ---
