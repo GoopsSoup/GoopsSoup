@@ -1,6 +1,6 @@
 <h1 align="center">👑 Andhika Raja Yang Agung 👑</h1>
 <h3 align="center">🔥 Beginner | Game Enthusiast | Learning AI | A 
-vocational school Student🔥</h3>
+Vocational School Student🔥</h3>
 
 ---
 
