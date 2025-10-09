@@ -35,5 +35,5 @@ Vocational School Student🔥</h3>
   My gmail: thoughblud@gmail.com
 </p>
 
-<h1 align="center"> Would love if someone could teach me AI ENGINEERING </h1>
+<h1 align="center"> Would love if someone could teach me AI ENGINEERING or DATA SCIENTIST </h1>
 
