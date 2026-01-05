@@ -5,7 +5,7 @@ Vocational School Student🔥</h3>
 ---
 
 ## 🌟 About ME
-- 🎯 **Focus:** Learning AI & LLM 
+- 🎯 **Focus:** Learning Data  
 - 🎮 Hobbies Gaming , Cyclist and Coding
 - 💡 Like to keep learning and embrace new challenges
 
