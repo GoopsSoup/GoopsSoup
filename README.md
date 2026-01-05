@@ -40,9 +40,10 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoopsSoup&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=GoopsSoup&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GoopsSoup&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=GoopsSoup&theme=tokyonight" height="165"/>
 </p>
+
 
 ---
 
