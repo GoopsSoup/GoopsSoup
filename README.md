@@ -21,6 +21,4 @@
   📧 Email: <b>thoughblud@gmail.com</b>
 </p>
 
----
 
-<h2 align="center">✨ Open to Learning from Mentors in AI Engineering or Data Science ✨</h2>
